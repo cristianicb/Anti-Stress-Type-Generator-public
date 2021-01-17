@@ -1,5 +1,7 @@
 # Anti Stress Type Generator
  Anti-stress Type Generator is a generator of typographic uses focused on both web and print use. By using few style parameters and typographic characteristics, you can generate different typographic uses ready to inspire you even on the worst days.
+ 
+ 
  Get a preview of the project here: https://cristianicb.github.io/Anti-Stress-Type-Generator/
 
 ## Requirements
