@@ -10,6 +10,7 @@
 ## Documentation
 ### Google Fonts Api
   Google Fonts Api is used to get all the data that each font has to offer. You can get an Api key here: https://developers.google.com/fonts/docs/developer_api
+  
   After you got a key and cloned the repository on your computer, place the key here:
   
   > app / modules / personalData.js
